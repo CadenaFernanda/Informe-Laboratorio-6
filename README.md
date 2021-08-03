@@ -140,6 +140,8 @@ Si se cumple debido a que una fuente de voltaje entrega la maxima tranferencia d
 
 VIDEO:
 
+https://www.youtube.com/watch?v=vnzQ71Lw_P4
+
 CONCLUSIONES:
 
 Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos ya conocidos y mencionados con anterioridad sobre el teorema de la Máxima Transferencia de Potencia.,podemos concluir que:
