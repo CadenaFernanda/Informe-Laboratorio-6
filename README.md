@@ -9,15 +9,15 @@ PRÁCTICA No. 6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 
 OBJETIVO GENERAL
 
-Determinar las características y mediciones comprobando experimentalmente el Teorema de la Máxima Transferencia de Potencia., y comparar sus valores mediante tablas y simuladores.
+-Determinar las características y mediciones comprobando experimentalmente el Teorema de la Máxima Transferencia de Potencia., y comparar sus valores mediante tablas y simuladores.
 
 OBJETIVOS ESPECIFICOS:
 
--Identificar el voltaje y la corriente para cada valor de RL en el circuito que se proporciona.
+- Identificar el voltaje y la corriente para cada valor de RL en el circuito que se proporciona.
 
 -	Calcular las potencia consumida por RL mediante el teores de la Maxima transferencia de potencia, para cada valor dado .
 
--Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
+- Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
 
 
 
