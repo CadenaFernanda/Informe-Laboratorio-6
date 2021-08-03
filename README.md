@@ -77,7 +77,33 @@ Marco Teórico:
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![image](https://user-images.githubusercontent.com/84427371/127802476-ad2166dd-6d16-45e4-a567-dcfc6501dda6.png)
+![image](https://user-images.githubusercontent.com/84587120/127956693-162517a3-60df-42b8-8f41-72eab5b0e234.png)
+ 
+Cálculos:
+
+![image](https://user-images.githubusercontent.com/84587120/127956761-d340b4b9-7cc2-4d00-8c2a-7b05a5152ef1.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956781-f992567e-fce4-4bd3-a1b2-5d807ceb8cec.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956802-10af57f1-b389-4078-8dbf-53bcf5953e4b.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956820-70623dda-ff87-4806-8617-1b215a12b5d1.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956848-0d061e60-8a6d-4ebc-9254-193f43caa096.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956863-ad9b0038-3425-4b45-ab2b-6321ebdb376d.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956886-b812f8f4-f571-44eb-b1d3-8ef43eca843f.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956911-e49b5cdc-e46c-4675-a34b-4e11da267cf1.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956934-486c6e1e-fa7b-4153-a824-537465040521.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956955-cb3ba7d6-209e-4271-839e-b0f344f7b47c.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956971-11308533-d5cd-4b9b-9478-1c14e646e165.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127956997-8d716140-b0f4-4d46-ac77-3a89208d9638.png)
 
 
 6.5.4.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
