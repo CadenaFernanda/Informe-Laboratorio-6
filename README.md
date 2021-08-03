@@ -37,7 +37,29 @@ Marco Teórico:
 
 ![image](https://user-images.githubusercontent.com/84427371/127802398-821aaa48-9bf6-4945-9e0c-fe9997503657.png)
 
+![image](https://user-images.githubusercontent.com/84587091/127945008-e24d7ba7-8226-4ca4-923b-8ee6269f8b15.png)
+
 6.5.2.	Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+
+![image](https://user-images.githubusercontent.com/84587091/127944856-1a0842a7-f0c2-45a9-a511-91fd8f57d4ff.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127945124-3510c21a-4b71-40d4-9255-04d8d7127666.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127945166-73f5b34c-2cd2-4064-a030-369e0ac0ac4d.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127945185-e735c467-d312-487e-99c4-2088f202fe8d.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127946852-dbbad074-60bb-4774-b9e6-e2dad76ef74c.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127946896-dc0ec6a8-7e7d-46ce-a0d0-28b0c290199a.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127946924-7ac2183d-94ce-418c-8f66-c6c96496477b.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127946952-6ca257ec-d703-4789-8823-6a4fac22a989.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127946972-ebe024d9-2b68-4fce-b30b-47718548aeb0.png)
+
+![image](https://user-images.githubusercontent.com/84587091/127946998-23c8daf0-8cd3-43c5-8437-b1d5eccf24ad.png)
 
 6.5.3.	Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
