@@ -7,7 +7,19 @@ PRÁCTICA No. 6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 
 6.1.	OBJETIVO DE LA PRÁCTICA
 
-Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+OBJETIVO GENERAL
+
+Determinar las características y mediciones comprobando experimentalmente el Teorema de la Máxima Transferencia de Potencia., y comparar sus valores mediante tablas y simuladores.
+
+OBJETIVOS ESPECIFICOS:
+
+-Identificar el voltaje y la corriente para cada valor de RL en el circuito que se proporciona.
+
+-	Calcular las potencia consumida por RL mediante el teores de la Maxima transferencia de potencia, para cada valor dado .
+
+-Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
+
+
 
 6.2.	REQUISITOS PREVIOS.
 
@@ -74,6 +86,19 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 6.5.6.	¿Para qué valor de RL se obtiene la MTP?	Ω
 
+VIDEO:
+
+CONCLUSIONES:
+
+Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos ya conocidos y mencionados con anterioridad sobre el teorema de la Máxima Transferencia de Potencia.,podemos concluir que:
+
+-Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
+-Armando el circuito para comprobar este teorema logramos medir el voltaje como la corriente para cada valor de RL como nos indicaba la tabla y estos resultados los anotamos en la misma.
+
+-Una vez obtenidos los voltaje y corrientes  calculamos pa potencia consumida por RL.
+
+-Al realizar el respectivo análisis de nuestro circuito, medir sus voltajes ,y potencia , al ponerlo en práctica en el simulador nos marca un margen de error mínimo,los cuales pueden ser producidos porque no es un escenario real.
 
 
 Bibliografía: 
