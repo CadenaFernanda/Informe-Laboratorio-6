@@ -53,23 +53,43 @@ Marco Teórico:
 
 6.5.2.	Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
+Resistor de 220 Ω
+
 ![image](https://user-images.githubusercontent.com/84587091/127944856-1a0842a7-f0c2-45a9-a511-91fd8f57d4ff.png)
+
+Resistor de 470 Ω
 
 ![image](https://user-images.githubusercontent.com/84587091/127945124-3510c21a-4b71-40d4-9255-04d8d7127666.png)
 
+Resistor de 680 Ω
+
 ![image](https://user-images.githubusercontent.com/84587091/127945166-73f5b34c-2cd2-4064-a030-369e0ac0ac4d.png)
+
+Resistor de 820 Ω
 
 ![image](https://user-images.githubusercontent.com/84587091/127945185-e735c467-d312-487e-99c4-2088f202fe8d.png)
 
+Resistor de 1 kΩ
+
 ![image](https://user-images.githubusercontent.com/84587091/127946852-dbbad074-60bb-4774-b9e6-e2dad76ef74c.png)
+
+Resistor de 1.5 kΩ
 
 ![image](https://user-images.githubusercontent.com/84587091/127946896-dc0ec6a8-7e7d-46ce-a0d0-28b0c290199a.png)
 
+Resistor de 1.8 kΩ
+
 ![image](https://user-images.githubusercontent.com/84587091/127946924-7ac2183d-94ce-418c-8f66-c6c96496477b.png)
+
+Resistor de 2.2 kΩ
 
 ![image](https://user-images.githubusercontent.com/84587091/127946952-6ca257ec-d703-4789-8823-6a4fac22a989.png)
 
+Resistor de 3.9 kΩ
+
 ![image](https://user-images.githubusercontent.com/84587091/127946972-ebe024d9-2b68-4fce-b30b-47718548aeb0.png)
+
+Resistor de 4.7 kΩ
 
 ![image](https://user-images.githubusercontent.com/84587091/127946998-23c8daf0-8cd3-43c5-8437-b1d5eccf24ad.png)
 
@@ -106,13 +126,17 @@ Cálculos:
 ![image](https://user-images.githubusercontent.com/84587120/127956997-8d716140-b0f4-4d46-ac77-3a89208d9638.png)
 
 
-6.5.4.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+6.5.4.	*¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-6.5.5.	¿Cuál fue la potencia máxima en RL?	Watts
-46,28 W
+Si se cumple debido a que una fuente de voltaje entrega la maxima tranferencia de potencia a una resistencia de carga RL,cuando el valor de esta resistencia es igual a la resistencia interna de la fuente,RS.
 
-6.5.6.	¿Para qué valor de RL se obtiene la MTP?	Ω
-1kOhm
+6.5.5.	*¿Cuál fue la potencia máxima en RL?Watts
+
+ La maxima potencia en wats es 46,28 W.
+
+6.5.6.	*¿Para qué valor de RL se obtiene la MTP?Ω
+
+ Se obtiene MTP para el valor de 1kOhm.
 
 VIDEO:
 
