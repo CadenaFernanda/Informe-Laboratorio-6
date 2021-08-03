@@ -109,8 +109,10 @@ Cálculos:
 6.5.4.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 6.5.5.	¿Cuál fue la potencia máxima en RL?	Watts
+46,28 W
 
 6.5.6.	¿Para qué valor de RL se obtiene la MTP?	Ω
+1kOhm
 
 VIDEO:
 
