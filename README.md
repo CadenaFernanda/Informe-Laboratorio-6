@@ -97,7 +97,7 @@ Resistor de 4.7 kΩ
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![image](https://user-images.githubusercontent.com/84587120/127956693-162517a3-60df-42b8-8f41-72eab5b0e234.png)
+![image](https://user-images.githubusercontent.com/84587120/128277656-54f848d1-fe88-4f01-b824-1daeca91891e.png)
  
 Cálculos:
 
